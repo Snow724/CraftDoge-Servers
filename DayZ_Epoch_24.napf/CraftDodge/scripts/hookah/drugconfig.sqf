@@ -1,0 +1,1 @@
+DrugEffects = call compile preprocessFileLineNumbers "CraftDodge\scripts\hookah\effect\drugeffects.sqf";
